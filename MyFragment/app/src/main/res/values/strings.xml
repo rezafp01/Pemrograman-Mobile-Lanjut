@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nim_17104014">NIM : 17104014</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_reza_faizal_putra">Nama : Reza Faizal Putra</string>
+    <string name="ttl_banyumas_1_januari_1999">TTL : Banyumas, 1 Januari 1999</string>
+    <string name="prodi_s1_rekayasa_perangkat_lunak">Prodi : S1 Rekayasa Perangkat Lunak</string>
+    <string name="cita_cita_programmer">Cita-Cita : Programmer</string>
+    <string name="halaman_2">halaman 2</string>
+    <string name="halaman_1">halaman 1</string>
+</resources>
